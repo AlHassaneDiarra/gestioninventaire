@@ -65,7 +65,7 @@ gestion-inventaire/
 
 ### 1️⃣ Cloner le projet
 ```bash
-git clone https://github.com/<ton-username>/gestion-inventaire.git
+git clone https://github.com/AlHassaneDiarra/gestioninventaire
 cd gestion-inventaire
 
 2️⃣ Lancer le backend (Django)
